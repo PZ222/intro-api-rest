@@ -1,0 +1,7 @@
+/* Detalles sutiles para mejor look */
+#last-status {
+  word-break: break-word;
+}
+.table td, .table th {
+  white-space: nowrap;
+}
